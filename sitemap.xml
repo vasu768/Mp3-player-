@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://https://vasu768.github.io/Mp3-player-//video-to-mp3</loc>
-    <lastmod>2025-06-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://vasu768.github.io/Mp3-player-//video-to-mp3</loc>
-    <lastmod>2025-6-15</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+<url>
+<loc>https://vasu768.github.io/Mp3-player-/</loc>
+<lastmod>2025-06-18T17:45:20+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://vasu768.github.io/Mp3-player-/index.html</loc>
+<lastmod>2025-06-18T17:45:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://vasu768.github.io/Mp3-player-/video-to-mp3.html</loc>
+<lastmod>2025-06-18T17:45:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>
